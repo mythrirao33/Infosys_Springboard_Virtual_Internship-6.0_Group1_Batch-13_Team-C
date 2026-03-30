@@ -126,7 +126,6 @@ The *ElectionViz* project demonstrates how **data visualization can transform ra
 
 * Snehal Gurnule
 * Malraju Mythri
-* Samyak Labhane
 * Poonam Sharma
 * Vinukonda Harsha Vardhan
 
