@@ -128,7 +128,7 @@ The *ElectionViz* project demonstrates how **data visualization can transform ra
 * Malraju Mythri
 * Samyak Labhane
 * Poonam Sharma
-* Vinukonda Harsha Vardhan
+* Vinukonda Harsha vardhan
 
 Year: 2026
 
